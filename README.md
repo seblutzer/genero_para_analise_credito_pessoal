@@ -5,9 +5,12 @@ Olá a todos! Neste projeto, exploraremos a intrigante questão de como o gêner
 
 Este é um projeto em Python, e o código foi escrito para ser fácil de seguir e entender. Ele é dividido em várias seções, incluindo a limpeza dos dados, a exploração dos dados, a modelagem e a avaliação do modelo. Em cada seção, fornecemos explicações detalhadas de nossas decisões e métodos.
 
-Este projeto está disponível tanto no GitHub ([Clique aqui](https://github.com/seblutzer/genero_para_analise_credito_pessoal.git)) quanto no Kaggle ([Clique aqui](https://www.kaggle.com/code/srgiolutzer/relev-ncia-do-g-nero-para-an-lise-de-cr-dito/edit)) para que todos possam visualizar e contribuir. Acreditamos que este é um tópico importante e esperamos que este projeto possa contribuir para a discussão sobre equidade de gênero na análise de crédito. Convidamos todos a participar da discussão, fornecer feedback e contribuir com suas próprias análises e insights.
+Este projeto está disponível tanto no GitHub ([Clique aqui](https://github.com/seblutzer/genero_para_analise_credito_pessoal.git)) quanto no Kaggle ([Clique aqui](https://www.kaggle.com/code/srgiolutzer/relev-ncia-do-g-nero-para-an-lise-de-cr-dito/edit)), e publicado um dashboard interativo no Looker Data Studio para visualização ([Clique aqui](https://lookerstudio.google.com/reporting/1f96a7ec-0df3-4c0c-8bd7-1576fdf0e72c) para que todos possam visualizar e contribuir. Acreditamos que este é um tópico importante e esperamos que este projeto possa contribuir para a discussão sobre equidade de gênero na análise de crédito. Convidamos todos a participar da discussão, fornecer feedback e contribuir com suas próprias análises e insights.
 
 Esperamos que você ache este projeto interessante e útil. Obrigado por sua atenção e participação!
+
+<img width="480" alt="Captura de Tela 2023-10-30 às 15 51 29" src="https://github.com/seblutzer/genero_para_analise_credito_pessoal/assets/114627479/64635299-358e-4970-b600-ce3020ef38cb">
+
 
 ### 1.1. Sobre o datase
 Este dataset contém informações de perfil e comportamento de clientes de um banco, incluindo detalhes demográficos e dados relacionados à atividade bancária. O objetivo é fornecer insights sobre os fatores que podem influenciar o padrão de default (inadimplência) dos clientes.
